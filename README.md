@@ -1,6 +1,6 @@
 <!-- 动态标题与打字机效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+YourName;Python%2FNode+FullStack+Developer;React+Native%2FVue%2FElectron+Specialist" alt="动态标题">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B+I'm+BiuBiu_Ka;Python%2FNode+FullStack+Developer;React+Native%2FVue%2FElectron+Specialist" alt="动态标题">
 </div>
 
 <!-- 炫光分隔条 -->
